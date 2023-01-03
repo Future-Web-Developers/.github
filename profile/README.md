@@ -16,4 +16,4 @@ Once you FORK a project into your repositories go into the project profile. Ther
 
 ![Green Code Button](Future-Web-Developers/.github/profile/codegithub.png)
 
-<img src="codegithub.png">
+<img src="codegithub.png" width="200px">
