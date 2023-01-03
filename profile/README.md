@@ -15,3 +15,7 @@ steps to get your particpation and code approved into our projects. If you are n
 Once you FORK a project into your repositories go into the project profile. There you find a green CODE button similar to the below image.
 
 ![Alt text](https://junkjackzack.github.io/resource-photos/codegithub.png)
+
+After you click the CODE button you'll see options appear. Select HTTPS and copy the link that it provides.
+
+![Alt text](https://junkjackzack.github.io/resource-photos/httpsgithub.png)
